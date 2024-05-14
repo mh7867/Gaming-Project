@@ -1,0 +1,1057 @@
+/* for-large-laptop view 1200 */
+
+@media only screen and (min-width: 100px) and (max-width: 1399px) {
+  .team-content {
+    margin-left: 46px;
+  }
+
+  .hero-element .shape-wrap.right {
+    right: 70px;
+  }
+  .hero-element .shape-wrap {
+    left: 52px;
+  }
+
+  .gamer-main {
+    padding: 28px;
+    margin: 0;
+  }
+
+  .gamer-content h3 {
+    font-size: 20px;
+    width: 86%;
+  }
+
+  .gamer-image .shape.shape-1 {
+    width: 178px;
+    left: 22%;
+  }
+
+  .gamer-image .shape.shape-2 {
+    left: 25%;
+  }
+
+  .gear-main {
+    width: 300px;
+    margin: 0;
+    padding: 33px;
+  }
+
+  .team-main-right .team-btn a {
+    top: 87%;
+  }
+
+  .th-counter ul li {
+    margin: 0px 19px;
+  }
+}
+
+/* for-laptop view-1024 */
+
+@media only screen and (min-width: 100px) and (max-width: 1199px) {
+  .header-main > nav > ul > li {
+    margin: 0px 7px;
+  }
+
+  .logo {
+    width: 70%;
+}
+
+  .main-btn {
+    width: 154px;
+  }
+
+  .header-main nav ul li a {
+    font-size: 14px;
+  }
+
+  .hero-content h1 {
+    font-size: 56px;
+  }
+
+  .hero-image {
+    padding: 0px 150px;
+  }
+
+  .team-main::after {
+    height: 100px;
+  }
+
+  .team-main::before {
+    height: 100px;
+  }
+
+  .team-content {
+    margin-left: 51px;
+  }
+
+  .team-content h3 {
+    font-size: 21px;
+    margin: 0;
+    line-height: 22px;
+  }
+
+  .hero-element .shape-wrap {
+    left: 60px;
+  }
+
+  .hero-element .shape-wrap.right {
+    right: 70px;
+  }
+
+  .form-main form input {
+    width: 225px;
+  }
+
+  .team-btn .main-btn {
+    width: 52%;
+    font-size: 12px;
+  }
+
+  .match-time h3 {
+    font-size: 50px;
+  }
+
+  .watch-btn {
+    margin: 0;
+  }
+
+  .gameplay_slide-main.slick-center .gameplay-main {
+    padding: 0;
+    transform: scale(1.6);
+  }
+
+  .gameplay-main .play-btn i {
+    font-size: 15px;
+  }
+
+  .gameplay-main .play-btn {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+  }
+
+  .gamer-image .shape.shape-1 {
+    width: 70%;
+    left: 24%;
+  }
+
+  .gamer-image .shape.shape-2 {
+    width: 52%;
+  }
+
+  .gamer-image .shape.shape-3 {
+    width: 57%;
+    left: 15%;
+  }
+
+  .gamer-content h3 {
+    font-size: 15px;
+    height: 53px;
+    width: 85%;
+  }
+
+  .gamer-content::before {
+    width: 32px;
+    right: 5px;
+    height: 53px;
+  }
+
+  .gamer-content::after {
+    width: 32px;
+    height: 53px;
+    right: -12px;
+  }
+
+  .gamer-content span {
+    height: 53px;
+    left: -7px;
+    top: -9px;
+  }
+
+  .cp-image {
+    padding: 0px 25px;
+  }
+
+  .gear-main {
+    width: 207px;
+    margin: 0px 15px;
+  }
+
+  .gear-content h3 {
+    font-size: 21px;
+    margin: 0;
+  }
+
+  .headline-content ul li {
+    font-size: 13px;
+  }
+
+  .headline-content ul li i {
+    margin-right: 5px;
+  }
+
+  .headline-content h3 {
+    font-size: 21px;
+    line-height: 31px;
+  }
+
+  .gameplay-main .play-btn::after {
+    left: 24px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .gameplay-main .play-btn::before {
+    left: 24px;
+    width: 90px;
+    height: 90px;
+  }
+
+  .gameplay-main .play-btn span {
+    left: 24px;
+    width: 70px;
+    height: 70px;
+  }
+
+  .team-main-right .team-btn a {
+    top: 80%;
+  }
+
+  .l-content .main-btn {
+    width: 48%;
+    font-size: 14px;
+  }
+
+  .l-content h2 {
+    font-size: 27px;
+  }
+
+  .vs {
+    width: 20%;
+  }
+
+  .leave-main .main-btn {
+    width: 30%;
+  }
+
+  .th-detail-main {
+    width: 100%;
+  }
+
+  .th-counter ul li {
+    margin: 0px 26px;
+  }
+
+  .cp-image {
+    padding: 0px 50px;
+  }
+
+  .map-main .shape-21 {
+    top: 21%;
+  }
+
+  .gear-main {
+    width: 261px;
+    margin: 0px;
+    padding: 0px 30px;
+  }
+
+  .headline-content ul li i {
+    margin-right: 2px;
+  }
+}
+
+/* for-tablet view-768 */
+
+@media only screen and (min-width: 100px) and (max-width: 991px) {
+  .hero-content h1 {
+    font-size: 49px;
+    line-height: 51px;
+  }
+
+  .headlines .row {
+    justify-content: center;
+}
+
+  .hero-image {
+    padding: 0;
+  }
+
+  .hero-element .shape-wrap.right {
+    right: 65px;
+  }
+
+  .header-main {
+    display: none;
+  }
+
+  .team-image {
+    width: 30%;
+  }
+
+  .team-content h3 {
+    font-size: 34px;
+  }
+
+  .team-content {
+    margin-left: 50px;
+  }
+
+  .team-main::before {
+    height: 109px;
+  }
+
+  .team-btn .main-btn {
+    width: 34%;
+    font-size: 14px;
+  }
+
+  .team-main {
+    margin: 0;
+  }
+
+  .team-main-right .team-image {
+    width: 30%;
+  }
+
+  .team-main-right .team-btn a {
+    top: 75%;
+  }
+
+  .team-main-right {
+    margin-bottom: 60px;
+  }
+
+  .footer-logo-main .logo {
+    width: 25%;
+  }
+
+  .form-main form button {
+    width: 40%;
+}
+
+  .gear-main {
+    width: 305px;
+  }
+
+  .cp-image {
+    padding: 0px 50px;
+  }
+
+  .gamer-content h3 {
+    font-size: 21px;
+  }
+
+  .gamer-content::before {
+    width: 36px;
+    right: 24px;
+  }
+
+  .gamer-content::after {
+    width: 36px;
+    right: 5px;
+  }
+
+  .footer-icons {
+    margin-bottom: 33px;
+  }
+
+  .copyright p {
+    font-size: 15px;
+  }
+
+  header {
+    padding: 5px 0px;
+  }
+
+  .match-l-shape .shape {
+    width: 80px;
+    height: 60px;
+    clip-path: polygon(0 0, 100% 0%, 64% 100%, 0 100%);
+  }
+
+  .match-l-shape .center {
+    clip-path: polygon(22% 0%, 82% 0%, 100% 100%, 0% 100%);
+    height: 60px;
+    width: 150px;
+  }
+
+  .match-l-shape .back {
+    width: 300px;
+    height: 40px;
+    clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0% 100%);
+  }
+
+  .match-l-shape .right {
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 42% 100%);
+  }
+
+  .l-content .main-btn {
+    width: 51%;
+    font-size: 14px;
+    margin-bottom: 15px;
+    padding: 5px 0px;
+  }
+
+  .l-info a i {
+    font-size: 25px;
+  }
+
+  .l-info a {
+    font-size: 15px;
+  }
+
+  .l-content span {
+    font-size: 14px;
+  }
+
+  .l-content h2 {
+    font-size: 20px;
+  }
+
+  .live-main {
+    padding: 5px 24px;
+  }
+  .vs {
+    width: 30%;
+  }
+  .vs h2 {
+    font-size: 35px;
+  }
+
+  .match-d-main {
+    gap: 50px;
+  }
+
+  .m-d-content-1 {
+    display: none;
+    margin: 0;
+  }
+
+  .m-d-content-2 {
+    display: none;
+    margin: 0;
+  }
+
+  .m-d-img {
+    width: 100%;
+  }
+
+  .leave-main .main-btn {
+    width: 27%;
+  }
+
+  .th-links {
+    display: none;
+    margin: 0;
+  }
+
+  .th-rating {
+    display: none;
+  }
+
+  .th-detail-main {
+    justify-content: center;
+  }
+
+  .mail-main {
+    margin: 0;
+  }
+
+  .recent .title h2 {
+    font-size: 32px;
+  }
+
+  .recent .title p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .recent-btn .main-btn {
+    width: 173px;
+  }
+
+  .connect .title h2 {
+    font-size: 40px;
+  }
+
+  .head-btn {
+    text-align: end;
+  }
+  .map-main .shape-21 {
+    display: none;
+  }
+
+  .team-btn a {
+    top: 70%;
+  }
+
+  .ham-menu {
+    display: block;
+  }
+
+  .logo{
+    width: 50%;
+  }
+}
+
+/* for-landscape-mobile view-576 */
+
+@media only screen and (min-width: 100px) and (max-width: 767px) {
+  .main-btn {
+    font-size: 14px;
+  }
+
+
+  .tournament .row{
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .title h2 {
+    font-size: 40px;
+  }
+
+  .team-btn .main-btn {
+    width: 44%;
+    top: 82%;
+  }
+
+  .team-main-right .team-btn a {
+    top: 80%;
+  }
+
+  .team-content h3 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .gamer-content h3 {
+    font-size: 16px;
+  }
+
+  .gamer-content::before {
+    right: 9px;
+  }
+
+  .gamer-content::after {
+    right: -10px;
+  }
+
+  .gear-main {
+    width: 227px;
+  }
+
+  .form-main form button {
+    width: 30%;
+    margin-left: 11px;
+  }
+
+  .match-l-shape .shape {
+    width: 60px;
+    height: 48px;
+    clip-path: polygon(0 0, 100% 0%, 64% 100%, 0 100%);
+  }
+
+  .match-l-shape .center {
+    clip-path: polygon(22% 0%, 82% 0%, 100% 100%, 0% 100%);
+    height: 55px;
+    width: 125px;
+  }
+
+  .match-l-shape .back {
+    width: 250px;
+    height: 40px;
+    clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0% 100%);
+  }
+
+  .match-l-shape .right {
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 42% 100%);
+  }
+
+  .live-main {
+    clip-path: none;
+    padding: 24px;
+    margin: 30px 10px;
+  }
+
+  .l-content {
+    margin: 0;
+    margin-bottom: 20px;
+  }
+
+  .l-info {
+    justify-content: start;
+    padding: 0;
+  }
+
+  .l-content .main-btn {
+    width: 27%;
+  }
+
+  .l-img {
+    margin-bottom: 20px;
+  }
+
+  .l-info a i {
+    font-size: 18px;
+  }
+
+  .l-info a {
+    font-size: 13px;
+  }
+
+  .match-d-main {
+    width: 100%;
+    margin: 0;
+    height: 45px;
+  }
+
+  .vs h2 {
+    font-size: 25px;
+  }
+
+  .vs {
+    width: 44%;
+  }
+
+  .p-details h2 {
+    font-size: 30px;
+  }
+
+  .p-details p {
+    font-size: 15px;
+  }
+
+  .blockquote {
+    font-size: 17px !important;
+    line-height: 24px !important;
+    padding: 24px;
+  }
+
+  .comment-bottom p {
+    font-size: 17px;
+    line-height: 26px;
+  }
+  .p-btns ul li a {
+    margin-bottom: 10px;
+  }
+
+  .leave-main .main-btn {
+    width: 50%;
+  }
+
+  .th-counter ul li {
+    margin: 0px 19px;
+  }
+
+  .th-counter ul li h3 {
+    font-size: 32px;
+  }
+
+  .th-counter ul li h4 {
+    font-size: 17px;
+  }
+
+  .recent-btn {
+    text-align: left;
+  }
+
+  .match-l {
+    padding-top: 150px;
+  }
+
+  .q-perent {
+    margin-bottom: 30px;
+  }
+}
+
+/* for-mobile view-375 */
+
+
+@media only screen and (min-width: 100px) and (max-width: 575px) {
+  .t-btn a {
+    width: 50%;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+  }
+
+  .tournament .row {
+    flex-direction: column;
+    gap: 38px;
+  }
+
+  .logo {
+    width: 40%;
+  }
+
+  .team-main-right .team-btn a {
+    top: 80%;
+  }
+  .head-btn {
+    display: none;
+  }
+
+  .hero-content h1 {
+    font-size: 37px;
+    line-height: 47px;
+  }
+  .hero-element .shape-wrap {
+    display: none;
+  }
+
+  .title h2 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+
+  .title h3 {
+    font-size: 14px;
+  }
+
+  .title p {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .title {
+    margin-bottom: 50px;
+  }
+
+  .input {
+    width: 100%;
+    float: left;
+    margin-bottom: 12px;
+  }
+
+  .gamer-content h3 {
+    font-size: 21px;
+  }
+
+  .gamer-content::before {
+    right: 24px;
+  }
+
+  .gamer-content::after {
+    right: 3px;
+  }
+
+  .gear-main {
+    width: 305px;
+  }
+
+  .headline-content h3 {
+    font-size: 19px;
+    line-height: 26px;
+  }
+
+  .headline-content p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .form-main form button {
+    width: 37%;
+    font-size: 14px;
+    display: block;
+    margin: 0;
+  }
+
+  .up-icon {
+    bottom: 22px;
+    right: 11px;
+  }
+
+  .copyright::before {
+    width: 86%;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  .footer-links ul li a {
+    font-size: 15px;
+  }
+
+  .team-content h3 {
+    font-size: 20px;
+    line-height: 27px;
+  }
+  .team-main::before {
+    height: 78px;
+  }
+  .team-content {
+    margin-left: 55px;
+  }
+  .team-image {
+    width: 35%;
+  }
+
+  .team-btn .main-btn {
+    width: 55%;
+    font-size: 12px;
+    top: 71%;
+  }
+
+  .team-main {
+    margin-bottom: 16px;
+  }
+
+  .match-time h3 {
+    font-size: 35px;
+  }
+  .watch-btn ul li a i {
+    font-size: 17px;
+  }
+
+  .gamer-main {
+    margin: 0;
+    padding: 35px;
+  }
+
+  .team-main::after {
+    min-height: 78px;
+  }
+
+  .match-l-shape .shape {
+    width: 50px;
+    height: 35px;
+    clip-path: polygon(0 0, 100% 0%, 64% 100%, 0 100%);
+  }
+
+  .match-l-shape .center {
+    clip-path: polygon(22% 0%, 82% 0%, 100% 100%, 0% 100%);
+    height: 46px;
+    width: 83px;
+  }
+
+  .match-l-shape .back {
+    width: 160px;
+    height: 25px;
+    clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0% 100%);
+  }
+
+  .match-l-shape .right {
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 42% 100%);
+  }
+
+  .l-content .main-btn {
+    width: 45%;
+  }
+
+  .l-content h2 {
+    font-size: 18px;
+  }
+
+  .l-content span {
+    font-size: 12px;
+  }
+
+  .vs {
+    height: 70px;
+  }
+
+  .vs h2 {
+    line-height: 70px;
+  }
+
+  .leave-main .main-btn {
+    width: 47%;
+  }
+
+  .input input {
+    width: 100%;
+  }
+
+  .about-team .title p {
+    font-size: 15px;
+  }
+
+  .th-content h2 {
+    font-size: 28px;
+  }
+
+  .th-counter ul li h4 {
+    font-size: 14px;
+  }
+
+  .th-counter ul li {
+    margin: 0px 9px;
+  }
+
+  .th-counter ul li h4 {
+    line-height: 8px;
+  }
+
+  .connect .title h2 {
+    font-size: 24px;
+  }
+
+  .recent .title h2 {
+    font-size: 28px;
+  }
+
+  .recent .title p {
+    font-size: 12px;
+  }
+
+  .logo {
+    width: 65%;
+  }
+}
+
+/* for-small-mobile view-320 */
+
+@media only screen and (min-width: 100px) and (max-width: 374px) {
+  .team-content h3 {
+    font-size: 17px;
+    line-height: 22px;
+  }
+  .match-time h3 {
+    font-size: 30px;
+  }
+
+  .team-btn .main-btn {
+    width: 61%;
+    font-size: 11px;
+    margin-right: 5px;
+  }
+
+  .title h2 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .title p {
+    font-size: 10px;
+    line-height: 15px;
+  }
+
+  .gear-main {
+    width: 304px;
+    padding: 22px;
+    margin: 0;
+  }
+
+  .gear-content h3 {
+    font-size: 19px;
+  }
+
+  .gear-content h4 {
+    font-size: 18px;
+  }
+
+  .form-main form button {
+    width: 42%;
+    font-size: 14px;
+    display: block;
+    margin: 0;
+  }
+
+  .copyright p {
+    margin-top: 15px;
+    font-size: 13px;
+  }
+
+  .copyright::before {
+    width: 91%;
+  }
+
+  .hero-content h1 {
+    font-size: 31px;
+    line-height: 39px;
+  }
+
+  .gamer-content h3 {
+    font-size: 17px;
+  }
+
+  .gamer-content::after {
+    right: -6px;
+  }
+
+  .gamer-content::before {
+    right: 12px;
+  }
+
+  .team-btn .main-btn {
+    top: 80%;
+  }
+
+  .l-content .main-btn {
+    font-size: 11px;
+  }
+
+  .vs h2 {
+    line-height: 68px;
+    font-size: 22px;
+  }
+
+  .vs {
+    height: 65px;
+  }
+
+  .leave-main .main-btn {
+    width: 56%;
+  }
+
+  .th-counter ul li {
+    margin: 0px 6px;
+  }
+
+  .th-counter ul li h3 {
+    font-size: 24px;
+  }
+
+  .th-counter ul li h4 {
+    font-size: 13px;
+  }
+
+  .logo {
+    width: 35%;
+  }
+
+  .th-img {
+    width: 150px;
+  }
+
+  .th-counter ul li h4 {
+    line-height: 8px;
+  }
+
+  .connect .title h2 {
+    font-size: 22px;
+  }
+
+  .logo {
+    width: 80%;
+  }
+
+  .t-btn a {
+    width: 55%;
+  }
+
+  .play-btn:after {
+    width: 110px;
+    height: 110px;
+  }
+
+  .cross-btn {
+    top: 1%;
+    right: 8%;
+  }
+
+  .headline-content ul {
+    display: block;
+  }
+
+  .headline-content ul li + li {
+    margin: 0;
+  }
+
+  .headline-content ul li {
+    margin-bottom: 5px;
+  }
+}
